@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  background-color: #d4d4d4;
+}
+.menu-tab {
+  vertical-align: middle;
+  height: 100%;
+  padding: 0 30px;
+}
